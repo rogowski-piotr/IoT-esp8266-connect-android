@@ -13,7 +13,7 @@ Module ESP8266 Wemos r1 d1 create WiFi access point witch allow [Android applica
 ## Setup
 Open the .ino file in Arduino IDE. Install [ESP8266 library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi). Setup sensor like an below diagram.
 
-![schema](https://github.com/rogowski-piotr/IoT-esp8266-connect-android/blob/master/scema.png)
+![schema](https://github.com/rogowski-piotr/IoT-esp8266-connect-android/blob/master/schema.png)
 
 - Set network access in one of the first lines of code:
 
